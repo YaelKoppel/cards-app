@@ -14,6 +14,21 @@ let DB = [
         text: 'Jane Doe',
         color: 2,
     },
+    {
+        id: 2,
+        text: 'Jane Doe',
+        color: 2,
+    },
+    {
+        id: 3,
+        text: 'Jane Doe',
+        color: 2,
+    },
+    {
+        id: 4,
+        text: 'Jane Doe',
+        color: 2,
+    },
 ]
 
 app.use(express.json());
